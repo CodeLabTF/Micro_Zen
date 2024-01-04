@@ -4,6 +4,7 @@
     "F5": "lua:wc.wordCount",
     "Ctrl-d": "lua:filemanager.toggle_tree",
     "Ctrl-l": "DuplicateLine",
+ 
     
 }
 
